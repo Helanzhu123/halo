@@ -9,7 +9,7 @@ git commands:
 run commands to establish connections between server (github) and local
 git init  (initialize your current folder as git local repository)
 
-we made a new, then run the command below to add to git library
+we made a new, then run the command below to add to git library.
 git add .  (add new files to git library.  . means every new files)
 git status (show current status of new files)
 
@@ -17,3 +17,7 @@ git commit -m "your comments"  (commit the new file to git)
 
 git push (push local files to server)
 git pull (get the lastet file from server)
+
+Wechat
+QQ
+IG
